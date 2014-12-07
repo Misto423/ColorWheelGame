@@ -7,6 +7,9 @@ Theme: Entire Game On One Screen
 Created with Haxe and the HaxeFlixel library.  It was my first usage of this language but it was nice to try something new.
 Although since it was my first time using it, the code is probably awful.  But at least it works!
 
+There are Windows, Linux, and Mac builds included but note that the Linux and Mac builds are untested.  The Windows build
+was tested on Windows 7.
+
 Instructions
 ============
 
